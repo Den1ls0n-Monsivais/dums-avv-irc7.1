@@ -17,4 +17,13 @@
 │       └── provisioning/
 │           └── (configuraciones)
 └── quinta_practica/
-    └── (pendiente)
+    ├── docker-compose.yml
+    ├── get-docker.sh
+    ├── nginx/
+    │   └── logs/
+    │       ├── access.log
+    │       └── error.log
+    ├── filebeat/
+    │   └── (configuraciones)
+    └── logstash/
+        └── (configuraciones)
